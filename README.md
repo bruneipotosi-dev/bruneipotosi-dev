@@ -1,21 +1,12 @@
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" background="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif">
-        <br><br>
-        <h1 align="center" style="border: none; color: #ffffff; text-shadow: 0 0 10px #00B4D8, 0 0 20px #00B4D8;">
-          SYSTEM STATUS: ARISING
-        </h1>
-        <h2 align="center" style="border: none; color: #ffffff;">
-          BRUNEI PAUL POTOSI CCUNO
-        </h2>
-        <code style="color: #00B4D8; background: rgba(0,0,0,0.5);">Web Solutions Architect Student | Full-Stack Hunter</code>
-        <br><br><br>
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="100%" alt="Solo Leveling Banner" />
 
   <br>
+
+  <h1>⚡ BRUNEI PAUL POTOSI CCUNO ⚡</h1>
+  <code>Web Solutions Architect Student | Full-Stack Hunter</code>
+
+  <br><br>
 
   <p align="center">
     <a href="https://x.com/PaulCcuno">
@@ -50,8 +41,8 @@
 
 ### 📊 Hunter Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=transparent&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=transparent&title_color=00B4D8&text_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=tokyonight&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=tokyonight&title_color=00B4D8&text_color=ffffff&hide_border=true" width="48%" />
 </p>
 
 ---
