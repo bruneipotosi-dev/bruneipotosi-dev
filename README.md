@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/KI9oNS4JBemyI/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="100%" alt="Anime Coding" />
+  <img src="[[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/KI9oNS4JBemyI/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="100%" alt="Anime Coding" />
 
   <h1>🚀 Brunei Paul Potosi Ccuno</h1>
   <p><i>"Arquitectura de Software, Entrenamiento y el Arte de la Mezcla"</i></p>
