@@ -1,76 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kaiti&color=gradient&height=300&section=header&text=Brunei%20Paul&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Web%20Solutions%20Architect%20Student&descSize=20&descAlignY=60" width="100%" />
+  <h1>👋 Ciao, sono Brunei Paul</h1>
+  <p><strong>Web Solutions Architect Student | Coding, Gym & Mixology</strong></p>
 
-  <br>
-
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Architecture-00B4D8?style=for-the-badge&logo=architecture" />
-  <img src="https://img.shields.io/badge/Gym-Active%20User-FF4B2B?style=for-the-badge&logo=strava" />
-  <img src="https://img.shields.io/badge/Life-Anime%20%26%20Mixology-7B2CBF?style=for-the-badge&logo=cocktail" />
+  <a href="https://x.com/PaulCcuno">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000?style=for-the-badge&logo=x" alt="X">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Building_Solutions-0078D4?style=for-the-badge" alt="Status">
 </div>
 
 ---
 
-## 🛰️ Digital Terminal
+### 🏛️ Architecture & Stack
+Vedo il codice come una struttura complessa: ogni elemento deve essere al posto giusto per garantire stabilità e performance.
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📜 Bio.txt</h3>
-      <blockquote>
-        "Trasformo concetti astratti in architetture concrete. Che sia un database PostgreSQL, un algoritmo in C o un cocktail bilanciato, la struttura è tutto."
-      </blockquote>
-      <ul>
-        <li>🔭 <b>Studying:</b> ITS Web Solutions Architect.</li>
-        <li>⚡ <b>Core:</b> C#, JavaScript, C, SQL.</li>
-        <li>🏋️ <b>Physical Cache:</b> Powerlifting enthusiast.</li>
-        <li>🍸 <b>Creative Cache:</b> Mixology & Flavor Design.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 System Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=pride&hide_border=true&langs_count=6" />
-    </td>
-  </tr>
-</table>
+- 💻 **Linguaggi:** C, C#, JavaScript (ES6+).
+- 🗄️ **Database:** PostgreSQL & Modellazione Dati.
+- 🎓 **Education:** ITS Web Solutions Architect.
 
 ---
 
-## 🛠️ Tech Stack & Lab Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,postgres,git,github,vscode,visualstudio,docker,linux&theme=dark&perline=6" />
+### 🛠️ Toolbelt (Skills)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,postgres,git,github,vscode,visualstudio&perline=5" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 Performance Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PaulCcuno/PaulCcuno/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=transparent&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📈 Engineering Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulCcuno&theme=dracula&area=true&hide_border=true&custom_title=Architect%20Progress%20Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulCcuno&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### ⚡ Quick Bits
+* 🏋️ **Gym:** Uso il sollevamento pesi per scaricare lo stress da debugging.
+* 🍹 **Mixology:** Creare il drink perfetto richiede la stessa logica di una funzione ben scritta.
+* ⛩️ **Anime:** Fan della narrazione e del design giapponese.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%20World%22);Console.WriteLine(%22Building%22);printf(%22Scalable%20Systems%22);Mixology.create(%22Perfect%20Drink%22)" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%" />
-</p>
-
----
-
-<div align="right">
-  <i>Ultimo aggiornamento del sistema: 2026-03-16 </i> 🛰️
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Lifting+Code;Lifting+Weights;Mixing+Ideas" alt="Typing SVG" />
 </div>
