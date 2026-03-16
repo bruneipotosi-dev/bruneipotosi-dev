@@ -1,48 +1,51 @@
 <div align="center">
-  <h1>👋 Ciao, sono Brunei Paul</h1>
-  <p><strong>Web Solutions Architect Student | Coding, Gym & Mixology</strong></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/KI9oNS4JBemyI/giphy.gif" width="100%" alt="Anime Coding" />
 
-  <a href="https://x.com/PaulCcuno">
-    <img src="https://img.shields.io/badge/X-Follow%20Me-000?style=for-the-badge&logo=x" alt="X">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Building_Solutions-0078D4?style=for-the-badge" alt="Status">
+  <h1>🚀 Brunei Paul Potosi Ccuno</h1>
+  <p><i>"Arquitectura de Software, Entrenamiento y el Arte de la Mezcla"</i></p>
 </div>
 
 ---
 
-### 🏛️ Architecture & Stack
-Vedo il codice come una struttura complessa: ogni elemento deve essere al posto giusto per garantire stabilità e performance.
+### 🏛️ Sobre mí
+Soy un estudiante de **ITS Web Solutions Architect**. Me apasiona crear sistemas eficientes y elegantes. Cuando no estoy frente al código, me encuentras superando mis límites en el gimnasio o perfeccionando una receta de coctelería.
 
-- 💻 **Linguaggi:** C, C#, JavaScript (ES6+).
-- 🗄️ **Database:** PostgreSQL & Modellazione Dati.
-- 🎓 **Education:** ITS Web Solutions Architect.
-
----
-
-### 🛠️ Toolbelt (Skills)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,postgres,git,github,vscode,visualstudio&perline=5" />
-  </a>
-</p>
+- 🏋️ **Gym Rat:** Disciplina aplicada al desarrollo.
+- 🍹 **Mixology:** Precisión en cada ingrediente.
+- ⛩️ **Anime:** Mi fuente de inspiración visual.
 
 ---
 
-### 📊 Performance Metrics
+### 🛠️ Tecnologías (Stack)
+<div align="center">
+  <img src="[https://skillicons.dev/icons?i=html,css,js,c,cs,postgres,git,github,vscode&theme=dark](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" />
+</div>
+
+---
+
+### 🎰 Proyecto Destacado: Lotto Simulator
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>Un laboratorio de lógica donde implementé algoritmos de extracción sin repeticiones usando <b>While</b> y <b>For</b>.</p>
+      <a href="https://github.com/PaulCcuno/lotto-project">🔗 Ver Código</a>
+    </td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwanR4bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Logic" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Estadísticas de Arquitecto
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-### ⚡ Quick Bits
-* 🏋️ **Gym:** Uso il sollevamento pesi per scaricare lo stress da debugging.
-* 🍹 **Mixology:** Creare il drink perfetto richiede la stessa logica di una funzione ben scritta.
-* ⛩️ **Anime:** Fan della narrazione e del design giapponese.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Lifting+Code;Lifting+Weights;Mixing+Ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Lifting+Weights;Mixing+Cocktails" alt="Typing SVG" />
 </div>
