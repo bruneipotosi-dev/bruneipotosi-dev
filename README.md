@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="[[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/KI9oNS4JBemyI/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="100%" alt="Anime Coding" />
 
   <h1>🚀 Brunei Paul Potosi Ccuno</h1>
@@ -49,3 +49,4 @@ Soy un estudiante de **ITS Web Solutions Architect**. Me apasiona crear sistemas
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Lifting+Weights;Mixing+Cocktails" alt="Typing SVG" />
 </div>
+](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
