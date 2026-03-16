@@ -55,5 +55,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Arise...;Code+Is+My+Weapon;Building+Systems;Breaking+Limits" alt="Typing SVG" />
   <br>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%" />
+  <img src="[https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png](https://github.com/pasqualerossi)" width="100%" />
 </div>
