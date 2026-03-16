@@ -1,44 +1,34 @@
-[<div align="center">
-  <img src="[[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/KI9oNS4JBemyI/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="100%" alt="Anime Coding" />
-
-  <h1>🚀 Brunei Paul Potosi Ccuno</h1>
-  <p><i>"Arquitectura de Software, Entrenamiento y el Arte de la Mezcla"</i></p>
-</div>
-
----
-
-### 🏛️ Sobre mí
-Soy un estudiante de **ITS Web Solutions Architect**. Me apasiona crear sistemas eficientes y elegantes. Cuando no estoy frente al código, me encuentras superando mis límites en el gimnasio o perfeccionando una receta de coctelería.
-
-- 🏋️ **Gym Rat:** Disciplina aplicada al desarrollo.
-- 🍹 **Mixology:** Precisión en cada ingrediente.
-- ⛩️ **Anime:** Mi fuente de inspiración visual.
-
----
-
-### 🛠️ Tecnologías (Stack)
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,c,cs,postgres,git,github,vscode&theme=dark](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" />
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Solo Leveling Level Up" />
+
+  <h1>⚡ Brunei Paul Potosi Ccuno ⚡</h1>
+  <p><strong>Web Solutions Architect Student | Leveling Up in Code & Life</strong></p>
+
+  <a href="https://x.com/PaulCcuno">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000?style=for-the-badge&logo=x" alt="X">
+  </a>
 </div>
 
 ---
 
-### 🎰 Proyecto Destacado: Lotto Simulator
-<table align="center">
-  <tr>
-    <td width="50%">
-      <p>Un laboratorio de lógica donde implementé algoritmos de extracción sin repeticiones usando <b>While</b> y <b>For</b>.</p>
-      <a href="https://github.com/PaulCcuno/lotto-project">🔗 Ver Código</a>
-    </td>
-    <td width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwanR4bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Logic" />
-    </td>
-  </tr>
-</table>
+### 🏛️ System Status: Arise
+Proprio come in Solo Leveling, ogni bug risolto e ogni nuova architettura imparata è un passo verso il grado **S**.
+
+- 💻 **Main Quest:** Mastering C, C#, and JavaScript.
+- 🗄️ **Database Raid:** PostgreSQL & Data Modeling.
+- 🏋️ **Daily Quest:** Gym & Physical Conditioning.
+- 🍹 **Side Job:** Mixology Art & Design.
 
 ---
 
-### 📈 Estadísticas de Arquitecto
+### 🛠️ My Skill Tree
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,postgres,git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+---
+
+### 📊 Hunter Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
@@ -47,6 +37,5 @@ Soy un estudiante de **ITS Web Solutions Architect**. Me apasiona crear sistemas
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Lifting+Weights;Mixing+Cocktails" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Leveling+Up+My+Code;Building+Scalable+Systems;Pushing+Limits+in+the+Gym" alt="Typing SVG" />
 </div>
-](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzdm12ZmlvNHJzcGt1cWl6NmlxOGRxOGd5ejZxOHdneHExZ2preiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
