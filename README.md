@@ -1,21 +1,59 @@
-# 💫 About Me:
-### 🚀 Hi there, I'm Brunei Paul Potosi Ccuno<br><br>I am a **Web Solutions Architect Student** at ITS, focused on building robust and scalable digital solutions. I’m passionate about full-stack development and low-level programming.<br><br>- 🔭 **Currently working on:** Refining my skills in web architecture and backend logic.<br>- 🌱 **Learning:** Deep diving into JavaScript, C#, and PostgreSQL, while keeping my roots in C.<br>- 🎯 **Goal:** Enriching my learning path through challenging projects and collaborations.<br>- 💬 **Ask me about:** HTML/CSS, JS, or how I balance code with a good workout.<br>- 📫 **Reach me on X:** [PaulCcuno](https://x.com/PaulCcuno)<br><br>---<br><br>**When I'm not coding, you can find me:**<br>* 🏋️‍♂️ At the **gym**, lifting weights to reset my brain.<br>* 🍹 Crafting the perfect **cocktail** (mixology is an art!).<br>* ⛩️ Watching **anime** to find new inspiration.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Brunei%20Paul&fontSize=80&animation=fadeIn" width="100%" />
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PaulCcuno) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Brunei Paul Potosi Ccuno&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Brunei Paul Potosi Ccuno&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunei Paul Potosi Ccuno&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ### 🏛️ Future Web Solutions Architect | Student @ ITS
+  
+  [![X Follow](https://img.shields.io/twitter/follow/PaulCcuno?style=for-the-badge&logo=x&color=000)](https://x.com/PaulCcuno)
+  ![Gym Enthusiast](https://img.shields.io/badge/Gym-Power-orange?style=for-the-badge&logo=strongmeme)
+  ![Cocktail Art](https://img.shields.io/badge/Mixology-Expert-blue?style=for-the-badge&logo=cocktail)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Brunei Paul Potosi Ccuno&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+Ciao! Sono **Brunei Paul Potosi Ccuno**. Sto studiando per diventare un architetto di soluzioni web. Vedo il codice come la struttura di un cocktail perfetto: ci vuole precisione, i giusti ingredienti e una presentazione impeccabile.
+
+- 🔭 **Focus Attuale:** Architetture web scalabili e logica di programmazione.
+- 🏋️ **Mentalità:** "Mens sana in corpore sano" — la palestra è il mio debugger naturale.
+- ⛩️ **Passioni:** Anime, Mixology e ovviamente risolvere bug complessi.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,postgres" />
+</p>
+
+---
+
+## 📈 My Coding Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulCcuno&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulCcuno&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🎯 Gli esperimenti del Laboratorio
+| Progetto | Stato | Tecnologie |
+| :--- | :--- | :--- |
+| **🎰 Lotto Simulator** | In Sviluppo | JS, HTML, Logic |
+| **📁 ITS-Solutions** | In Corso | C#, PostgreSQL |
+| **🍸 Mixology Dashboard** | Idea | JS, CSS |
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Lifting+Weights+%26+Code;Mixing+Logic+%26+Cocktails;Watching+the+Next+Anime+Gem" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%" />
+</p>
